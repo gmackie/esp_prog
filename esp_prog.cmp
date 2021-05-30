@@ -1,0 +1,67 @@
+Cmp-Mod V01 Created by PcbNew   date = 5/16/2021 6:22:25 PM
+
+BeginCmp
+TimeStamp = 60A1F445
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = wled:bitmap;
+EndCmp
+
+BeginCmp
+TimeStamp = 6097DAED
+Path = /6099019A
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6097DD1A
+Path = /6098A568
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6097CE79
+Path = /609780E0
+Reference = J1;
+ValeurCmp = USB_A;
+IdModule  = Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6097DD8C
+Path = /6098E23D
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6097DED2
+Path = /609790D7
+Reference = U1;
+ValeurCmp = MCP1700-3302E_SOT23;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 6097D56D
+Path = /60976EF2
+Reference = U2;
+ValeurCmp = CP2102N-A01-GQFN28;
+IdModule  = Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 60A1949F
+Path = /6097A0B9
+Reference = J2;
+ValeurCmp = Conn_01x06_Male;
+IdModule  = Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical;
+EndCmp
+
+EndListe
